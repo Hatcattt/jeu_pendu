@@ -2,7 +2,7 @@
 /**
  * PHP version 8.0.10
  * @Author: Hatcattt
- * @Mail: mercier.prodev@gmail.com
+ * @Mail: hatcattt.dev@gmail.com
  * @GitHub: https://github.com/Hatcattt
  * Date: 10/2021
  * Description: Jeu du pendu en mode cli.
